@@ -1,6 +1,6 @@
 # 🛒 Inventory Management System
 
-![Project Demo](./public/inventory.gif)
+                                                                                                                                      
 
 An **Inventory Management System** built using **Angular 19** and **NgRx** to manage products efficiently. This project integrates with a **Spring Boot** backend and provides a fully functional CRUD (Create, Read, Update, Delete) interface for managing inventory.
 
@@ -98,3 +98,5 @@ Follow these steps to set up the project locally:
 ```
 
 3. Backend will be available at http://localhost:8080.
+ ```
+   By Kareem Mohamed
